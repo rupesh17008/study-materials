@@ -1,7 +1,7 @@
 
 CUSTOMER TABLE
 
-create table customer( id number(3), name varchar(10), age number(3), address varchar(50), salary number(10));
+create table customer( id number(3), name varchar(10), age number(4), address varchar(50), salary number(10));
 
 
 describer customer;
